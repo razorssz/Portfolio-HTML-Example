@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A clean, modern, and responsive portfolio website for Jayce, a full-stack developer. This single-page website showcases skills, experience, and contact information with a sleek design.
+A clean, modern, and responsive portfolio website made by me, a full-stack developer. This single-page website showcases skills, experience, and contact information with a sleek design.
 
 ## Features
 
