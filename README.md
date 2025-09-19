@@ -23,7 +23,9 @@ A clean, modern, and responsive portfolio website for Jayce, a full-stack develo
 
 portfolio/
 ├── index.html # Main HTML file
+
 ├── global.css # Main stylesheet
+
 └── README.md # Project documentation
 
 
